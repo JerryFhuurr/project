@@ -1,0 +1,1095 @@
+== Appearances ==
+| [[Homer Simpson]]
+| colspan="37" {{CMain|M}}
+|-
+| [[Marge Simpson]]
+| colspan="37" {{CMain|M}}
+|-
+| [[Bart Simpson]]
+| colspan="37" {{CMain|M}}
+|-
+| [[Lisa Simpson]]
+| colspan="37" {{CMain|M}}
+|-
+| [[Maggie Simpson]]
+| colspan="37" {{CMain|M}}
+|-
+! colspan="38" style="background-color:#ccccff;" | Major supporting characters
+|-
+| [[Grampa Simpson|Abraham Simpson]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Mr. Burns]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Waylon Smithers]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Ned Flanders]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Moe Szyslak]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Barney Gumble]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Milhouse Van Houten]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Patty and Selma|Patty Bouvier]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Patty and Selma|Selma Bouvier]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Edna Krabappel]]
+| colspan="26" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="6" {{CGuest|G}}
+| {{CNone|O}}
+| colspan="2" {{CNone}}
+|-
+| [[Principal Skinner|Principal Seymour Skinner]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Krusty the Clown]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Martin Prince]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Apu Nahasapeemapetilon]]
+| colspan="35" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+|-
+| [[Chief Wiggum|Chief Clancy Wiggum]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Reverend Lovejoy|Reverend Timothy Lovejoy]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Otto Mann]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Lenny Leonard]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Carl Carlson]]
+| {{CGuest|G}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Kent Brockman]]
+| {{CGuest|G}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Nelson Muntz]]
+| {{CGuest|G}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Ralph Wiggum]]
+| colspan="2" {{CGuest|G}}
+| colspan="35" {{CRecurring|R}}
+|-
+| [[Dr. Hibbert|Dr. Julius Hibbert]]
+| {{CNone}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Mayor Quimby|Mayor Joe Quimby]]
+| {{CNone}}
+| colspan="9" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="26" {{CRecurring|R}}
+|-
+| [[Lionel Hutz]]
+| {{CNone}}
+| colspan="8" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="8" {{CNone}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| colspan="7" {{CNone}}
+| {{CNone|O}}
+| colspan="2" {{CNone}}
+|-
+| [[Groundskeeper Willie]]
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="35" {{CRecurring|R}}
+|-
+| [[Professor Frink|Professor Jonathan Frink]]
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="35" {{CRecurring|R}}
+|-
+| Snake Jailbird
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="35" {{CRecurring|R}}
+|-
+| [[Comic Book Guy]]
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| colspan="33" {{CRecurring|R}}
+|-
+| [[Fat Tony (The Simpsons)|Fat Tony]]
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="7" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="7" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="5" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="6" {{CRecurring|R}}
+|-
+| [[Superintendent Gary Chalmers]]
+| colspan="3" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="32" {{CRecurring|R}}
+|-
+| [[Cletus Spuckler]]
+| colspan="4" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="31" {{CRecurring|R}}
+|-
+! colspan="38" style="background-color:#ccccff;" | Recurring characters
+|-
+| [[Jasper Beardley|Jasper Beardsley]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Lou (The Simpsons)|Lou]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Eddie (The Simpsons)|Eddie]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Dr. Marvin Monroe]]
+| colspan="3" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="9" {{CNone|O}}
+| {{CGuest|G}}
+| colspan="3" {{CNone|O}}
+| {{CRecurring| }}
+| colspan="2" {{CNone|O}}
+| colspan="5" {{CNone}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="4" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+|-
+| [[Dewey Largo]]
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="34" {{CRecurring|R}}
+|-
+| [[Sherri and Terri|Sherri & Terri]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Helen Lovejoy]]
+| {{CGuest|G}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Jimbo Jones]]
+| {{CGuest|G}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Kearney Zzyzwicz]]
+| colspan="2" {{CGuest|G}}
+| colspan="35" {{CRecurring|R}}
+|-
+| [[Dolph Starbeam]]
+| colspan="2" {{CGuest|G}}
+| colspan="7" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="27" {{CRecurring|R}}
+|-
+| [[Rod Flanders]]
+| {{CGuest|G}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Todd Flanders]]
+| {{CGuest|G}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Agnes Skinner]]
+| colspan="4" {{CGuest|G}}
+| colspan="33" {{CRecurring|R}}
+|-
+| [[Old Jewish Man]]
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| colspan="34" {{CRecurring|R}}
+|-
+| [[Herman Hermann]]
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="8" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring| }}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="6" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+|-
+| [[Jacqueline Bouvier (Simpsons)|Jacqueline Bouvier]]
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="6" {{CNone}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone|O}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CNone|O}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+|-
+| [[Judge Roy Snyder]]
+| colspan="3" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="4" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CNone}}
+| colspan="5" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring| }}
+| colspan="4" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| colspan="3" {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Sideshow Bob]]
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="6" {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| colspan="6" {{CRecurring|R}}
+| {{CNone|O}}
+| colspan="6" {{CGuest|G}}
+|-
+| [[Bleeding Gums Murphy]]
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| colspan="12" {{CNone|O}}
+| {{CNone}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CNone|O}}
+| {{CNone}}
+| {{CRecurring|R}}
+| colspan="2" {{CNone}}
+| colspan="3" {{CGuest|G}}
+| colspan="2" {{CNone}}
+|-
+| [[Maude Flanders]]
+| {{CNone}}
+| colspan="10" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| colspan="4" {{CNone|O}}
+| {{CNone}}
+| {{CNone|O}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| {{CRecurring|R}}
+| colspan="2" {{CNone}}
+| {{CNone|O}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+|-
+| [[Sideshow Mel]]
+| {{CNone}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Dr. Nick Riviera]]
+| {{CNone}}
+| colspan="3" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="13" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="8" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+|-
+| [[Troy McClure]]
+| {{CNone}}
+| colspan="8" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="12" {{CNone}}
+| {{CNone|O}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="4" {{CNone}}
+| {{CNone|O}}
+| colspan="2" {{CNone}}
+|-
+| [[Elizabeth Hoover]]
+| {{CNone}}
+| colspan="36" {{CRecurring|R}}
+|-
+| [[Rainier Wolfcastle]]
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="12" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="14" {{CRecurring|R}}
+|-
+| [[Wiseguy (The Simpsons)|Wise Guy]]
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="7" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="24" {{CRecurring|R}}
+|-
+| [[Hans Moleman]]
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="34" {{CRecurring|R}}
+|-
+| [[Squeaky-Voiced Teen]]
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="4" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="29" {{CRecurring|R}}
+|-
+| [[Blue-Haired Lawyer]]
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="14" {{CRecurring|R}}
+|-
+| [[Drederick Tatum]]
+| {{CNone}}
+| colspan="3" {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring| }}
+| {{CGuest|G}}
+| colspan="17" {{CRecurring|R}}
+|-
+| [[Kang & Kodos]]
+| {{CNone}}
+| colspan="9" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="4" {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| colspan="5" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="4" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Mona Simpson (The Simpsons)|Mona Simpson]]
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+| colspan="3" {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| colspan="7" {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CNone}}
+| {{CGuest|G}}
+|-
+| [[Artie Ziff]]
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="8" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="5" {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CNone|O}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| {{CNone|O}}
+| {{CNone}}
+| {{CGuest|G}}
+|-
+| [[Roger Meyers, Jr.]]
+| {{CNone}}
+| colspan="8" {{CGuest|G}}
+| colspan="6" {{CNone}}
+| colspan="3" {{CGuest|G}}
+| {{CRecurring| }}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CNone|O}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="5" {{CNone}}
+| {{CNone|O}}
+| {{CNone}}
+| {{CGuest|G}}
+|-
+| [[Bernice Hibbert]]
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="34" {{CRecurring|R}}
+|-
+| [[Alice Glick]]
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="11" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CNone}}
+| colspan="7" {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[List of recurring The Simpsons characters#Akira Kurosawa|Akira Kurosawa]]
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CRecurring| }}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="6" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+|-
+| [[Luann Van Houten]]
+| colspan="2" {{CNone}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="33" {{CRecurring|R}}
+|-
+| [[Kirk Van Houten]]
+| colspan="2" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="33" {{CRecurring|R}}
+|-
+| [[Lunchlady Doris]]
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="7" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="17" {{CRecurring|R}}
+|-
+| [[Arnie Pye]]
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CNone}}
+| colspan="2" {{CRecurring|R}}
+| colspan="4" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="5" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+|-
+| [[Legs and Louie|Louie]]
+| colspan="2" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="5" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CNone}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Legs and Louie|Legs]]
+| colspan="2" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="8" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Hyman Krustofski]]
+| colspan="2" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="9" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring| }}
+| colspan="2" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+|-
+| [[Sea Captain (The Simpsons)|Sea Captain]]
+| colspan="3" {{CNone}}
+| colspan="34" {{CRecurring|R}}
+|-
+| [[Bumblebee Man]]
+| colspan="3" {{CNone}}
+| colspan="27" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="6" {{CRecurring|R}}
+|-
+| [[Ruth Powers]]
+| colspan="3" {{CNone}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="27" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+|-
+| [[Miss Springfield]]
+| colspan="3" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="8" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring| }}
+| colspan="4" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CNone|O}}
+| colspan="3" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| colspan="2" {{CNone|O}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Sarah Wiggum]]
+| colspan="3" {{CNone}}
+| colspan="3" {{CGuest|G}}
+| colspan="31" {{CRecurring|R}}
+|-
+| [[Luigi Risotto]]
+| colspan="4" {{CNone}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+| colspan="3" {{CGuest|G}}
+| colspan="9" {{CRecurring|R}}
+| {{CNone|O}}
+| colspan="10" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+|-
+| [[Rich Texan|The Rich Texan]]
+| colspan="4" {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="10" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="8" {{CRecurring|R}}
+| {{CNone|O}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+|-
+| [[Baby Gerald]]
+| colspan="4" {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CNone}}
+| {{CRecurring| }}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="4" {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+|-
+| [[Üter Zörker]]
+| colspan="4" {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="5" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Database (The Simpsons)|Database]]
+| colspan="5" {{CNone}}
+| {{CRecurring|R}}
+| {{CNone}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="12" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+|-
+| [[Brandine Spuckler]]
+| colspan="6" {{CNone}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="27" {{CRecurring|R}}
+|-
+| [[Disco Stu]]
+| colspan="6" {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CNone}}
+| colspan="27" {{CRecurring|R}}
+|-
+| [[Manjula Nahasapeemapetilon]]
+| colspan="6" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="26" {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+|-
+| [[Lindsey Naegle]]
+| colspan="7" {{CNone}}
+| colspan="3" {{CGuest|G}}
+| colspan="27" {{CRecurring|R}}
+|-
+| [[Gil Gunderson]]
+| colspan="8" {{CNone}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="21" {{CRecurring|R}}
+|-
+| [[Crazy Cat Lady]]
+| colspan="8" {{CNone}}
+| {{CGuest|G}}
+| colspan="5" {{CNone}}
+| colspan="5" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="5" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+|-
+| [[Duffman]]
+| colspan="8" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CNone}}
+| colspan="3" {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+|-
+| [[Cookie Kwan]]
+| colspan="8" {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| colspan="6" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="17" {{CRecurring|R}}
+|-
+| [[List of recurring The Simpsons characters#The Vanderbilts|Mrs. Vanderbilt]]
+| colspan="8" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="6" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CRecurring|R}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Yes Guy|The Yes Guy]]
+| colspan="9" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| {{CRecurring| }}
+| {{CGuest|G}}
+| colspan="9" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| {{CNone|O}}
+| colspan="2" {{CRecurring|R}}
+|-
+| [[Mrs. Muntz]]
+| colspan="9" {{CNone}}
+| {{CGuest|V}}
+| colspan="4" {{CNone}}
+| colspan="4" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="16" {{CRecurring|R}}
+|-
+| [[Johnny Tightlips]]
+| colspan="11" {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="4" {{CGuest|G}}
+| {{CRecurring| }}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="3" {{CGuest|G}}
+| colspan="4" {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+|-
+| [[Booberella]]
+| colspan="13" {{CNone}}
+| colspan="5" {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| colspan="3" {{CNone}}
+| {{CGuest|G}}
+| {{CNone|O}}
+| colspan="2" {{CNone}}
+|-
+| [[Julio (The Simpsons)|Julio Franco]]
+| colspan="13" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring| }}
+| colspan="3" {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| colspan="7" {{CRecurring|R}}
+|-
+| [[Shauna Chalmers]]
+| colspan="19" {{CNone}}
+| colspan="4" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="11" {{CRecurring|R}}
+|-
+| [[Kumiko Albertson]]
+| colspan="24" {{CNone}}
+| {{CGuest|G}}
+| colspan="12" {{CRecurring|R}}
+|-
+| [[Rayshelle Peyton]]
+| colspan="33" {{CNone}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+|-
+! colspan="38" style="background-color:#ccccff;" | Animals
+|-
+| [[Santa's Little Helper]]
+| colspan="37" {{CRecurring|R}}
+|-
+| [[Snowball II]]
+| colspan="14" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="11" {{CNone}}
+| {{CNone|O}}
+| colspan="2" {{CNone}}
+| {{CGuest|G}}
+| {{CNone}}
+| {{CGuest|G}}
+| colspan="5" {{CNone}}
+|-
+| [[Itchy & Scratchy]]
+| colspan="8" {{CRecurring|R}}
+| colspan="3" {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="2" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="6" {{CRecurring|R}}
+| {{CGuest|G}}
+| colspan="3" {{CRecurring|R}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+|-
+| [[Mr. Teeny]]
+| {{CNone}}
+| {{CGuest|G}}
+| {{CRecurring|R}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CNone}}
+| colspan="2" {{CGuest|G}}
+| {{CNone}}
+| {{CRecurring|R}}
+| {{CNone}}
+| colspan="9" {{CRecurring|R}}
+| {{CNone|O}}
+| colspan="10" {{CRecurring|R}}
+| colspan="4" {{CGuest|G}}
+|-
+| [[Snowball V]]
+| colspan="14" {{CNone}}
+| colspan="23" {{CRecurring|R}}
+|}
+{{reflist|group=upper-alpha}}
