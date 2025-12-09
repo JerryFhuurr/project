@@ -1,0 +1,10 @@
+https://grouplens.org/datasets/movielens/latest/
+
+
+ml-latest-small.zip (size: 1 MB)
+
+It contains 100836 ratings and 3683 tag applications across 9742 movies. These data were created by 610 users between March 29, 1996 and September 24, 2018.
+
+After unzip: 3.14 MB
+
+After I download the cast info and overview from TMDB the total data size is: 6.14 MB
